@@ -15,3 +15,10 @@ Alternatively, if plastic caps of the correct size can't be found, you can use t
 * __Recovery_Chamber_inner_piece.stl__ - we print it on a Ultimaker S5.
 
 The 3D printed pieces we currently use for the recovery chamber were designed by Robb Barrett from the Fabrications Lab at the Sainsbury Wellcome Centre (UCL) and can be downloaded from this repository. The *.stl* and *.step* files are made available under a CC0-1.0 license. We hope this will be a far cheaper and easy to assemble alternative to the commercially available recovery chambers.
+
+-----
+
+Below are some images of how the 3D printed pieces and the assembled recovery chamber look like:
+
+![image](https://user-images.githubusercontent.com/38165153/116444753-f8cb8380-a84c-11eb-8c56-9cd3a92c403b.png)
+![image](https://user-images.githubusercontent.com/38165153/116445228-8909c880-a84d-11eb-9531-b16c72401fa6.png)
